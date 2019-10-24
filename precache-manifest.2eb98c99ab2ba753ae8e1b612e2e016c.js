@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "071a0d5ae06f801eca34c126c6aaf05a",
+    "revision": "5f3f3fafcb063cdac3aee76fae7f1da6",
     "url": "/speccanal/index.html"
   },
   {
-    "revision": "9017236c856dd0b2eadc",
+    "revision": "e95cfc27cb4424e0cf75",
     "url": "/speccanal/static/css/main.5c558492.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/speccanal/static/js/2.db96a204.chunk.js"
   },
   {
-    "revision": "9017236c856dd0b2eadc",
-    "url": "/speccanal/static/js/main.604506ad.chunk.js"
+    "revision": "e95cfc27cb4424e0cf75",
+    "url": "/speccanal/static/js/main.770f5a08.chunk.js"
   },
   {
     "revision": "96b7e92aeef7e2860fe0",
