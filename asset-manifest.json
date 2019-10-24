@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/speccanal/static/css/main.5c558492.chunk.css",
-    "main.js": "/speccanal/static/js/main.a99d5f83.chunk.js",
+    "main.js": "/speccanal/static/js/main.604506ad.chunk.js",
     "runtime-main.js": "/speccanal/static/js/runtime-main.35349d1d.js",
     "static/js/2.db96a204.chunk.js": "/speccanal/static/js/2.db96a204.chunk.js",
     "index.html": "/speccanal/index.html",
-    "precache-manifest.db8ded7401a54ee87fbaddc950cdb170.js": "/speccanal/precache-manifest.db8ded7401a54ee87fbaddc950cdb170.js",
+    "precache-manifest.c3fe5c5c203ddf751d489f51aa4046a0.js": "/speccanal/precache-manifest.c3fe5c5c203ddf751d489f51aa4046a0.js",
     "service-worker.js": "/speccanal/service-worker.js",
     "static/media/pikacry.gif": "/speccanal/static/media/pikacry.544b30d9.gif",
     "static/media/pikathink.png": "/speccanal/static/media/pikathink.a1450d16.png"
@@ -14,6 +14,6 @@
     "static/js/runtime-main.35349d1d.js",
     "static/js/2.db96a204.chunk.js",
     "static/css/main.5c558492.chunk.css",
-    "static/js/main.a99d5f83.chunk.js"
+    "static/js/main.604506ad.chunk.js"
   ]
 }
