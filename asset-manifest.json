@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/speccanal/static/css/main.8465155b.chunk.css",
+    "main.js": "/speccanal/static/js/main.a99d5f83.chunk.js",
+    "main.js.map": "/speccanal/static/js/main.a99d5f83.chunk.js.map",
+    "runtime-main.js": "/speccanal/static/js/runtime-main.35349d1d.js",
+    "runtime-main.js.map": "/speccanal/static/js/runtime-main.35349d1d.js.map",
+    "static/js/2.db96a204.chunk.js": "/speccanal/static/js/2.db96a204.chunk.js",
+    "static/js/2.db96a204.chunk.js.map": "/speccanal/static/js/2.db96a204.chunk.js.map",
+    "index.html": "/speccanal/index.html",
+    "precache-manifest.6dce590812e22335e275906b7547efec.js": "/speccanal/precache-manifest.6dce590812e22335e275906b7547efec.js",
+    "service-worker.js": "/speccanal/service-worker.js",
+    "static/css/main.8465155b.chunk.css.map": "/speccanal/static/css/main.8465155b.chunk.css.map",
+    "static/media/pikacry.gif": "/speccanal/static/media/pikacry.544b30d9.gif",
+    "static/media/pikathink.png": "/speccanal/static/media/pikathink.a1450d16.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35349d1d.js",
+    "static/js/2.db96a204.chunk.js",
+    "static/css/main.8465155b.chunk.css",
+    "static/js/main.a99d5f83.chunk.js"
+  ]
+}
